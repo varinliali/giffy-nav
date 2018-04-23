@@ -1,5 +1,7 @@
 # giffy-nav
 
+# to get the app up and running you need to create a config folder with giffy and firebase api key
+
 A [re-frame](https://github.com/Day8/re-frame) application designed to ... well, that part is up to you.
 
 ## Development Mode
